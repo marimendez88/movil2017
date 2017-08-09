@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "776290481456",
+    "firebase_url": "https://reposteria-yolis.firebaseio.com",
+    "project_id": "reposteria-yolis",
+    "storage_bucket": "reposteria-yolis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776290481456:android:bd05bb61630883d9",
+        "android_client_info": {
+          "package_name": "com.app.andre.reposteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776290481456-0ro3ves72anvonr9ub0pijju3j2ccsld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.andre.reposteria",
+            "certificate_hash": "a5d26cada59626ce7fbd76e9596fdd79270d1f90"
+          }
+        },
+        {
+          "client_id": "776290481456-ku375hpbusoahbm9p69hvj0a8g9f0skb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCalT-m4k6Us7rD5Zugc0mK79Cgk9Xq-e4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776290481456-ku375hpbusoahbm9p69hvj0a8g9f0skb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776290481456:android:e2a1dff098ad8797",
+        "android_client_info": {
+          "package_name": "com.app.andre.reposteriayoli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776290481456-jvt2asor2d1b0hvbdvp6l3erjki4p13j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.andre.reposteriayoli",
+            "certificate_hash": "a5d26cada59626ce7fbd76e9596fdd79270d1f90"
+          }
+        },
+        {
+          "client_id": "776290481456-ku375hpbusoahbm9p69hvj0a8g9f0skb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCalT-m4k6Us7rD5Zugc0mK79Cgk9Xq-e4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776290481456-ku375hpbusoahbm9p69hvj0a8g9f0skb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

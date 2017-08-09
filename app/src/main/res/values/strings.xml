@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ReposteriaYoli</string>
+
+    <!--    OPCIONES DEL MENU   -->
+    <string name="mAdmin">Configuracion</string>
+    <string name="mProductos">Productos</string>
+    <string name="mPedidos">Pedidos</string>
+    <string name="mSalir">Salir</string>
+
+    <string name="btAdmin">Administracion</string>
+    <string name="btClientes">Clientes</string>
+    <!--    OPCIONES DEL MENU   -->
+
+
+    <!--    TEXTO DEL NAV_HEADER  -->
+    <string name="tvTitulo">Bienvenido a Resposteria Yoli</string>
+    <string name="tvCont">Con nuestra reposteria siempre buscaras repeticion!!!</string>
+    <string name="tvTel">Para mas informacion: 2896-8945</string>
+    <!--    TEXTO DEL NAV_HEADER   -->
+
+    <!--    PARAMETROS DEL MENU -->
+    <string name="Open">Abrir</string>
+    <string name="Close">Cerrar</string>
+    <!--    PARAMETROS DEL MENU   -->
+
+    <!--    TEXTO LOGIN -->
+    <string name="tvUsername">Usuario</string>
+    <string name="tvPassword">Contraseña</string>
+    <string name="tvLogin">Iniciar Sesion</string>
+    <string name="btIngresar">Ingresar</string>
+    <string name="btCancelar">Cancelar</string>
+    <!--    TEXTO LOGIN -->
+
+    <!--    TEXTO CLIENTES-->
+    <string name="btOrdenar">Ordenar</string>
+    <string name="tvTitulo2">Informacion de tu pedido.</string>
+    <string name="tvCombo">Nombre del producto:</string>
+    <string name="tvDescripcion">Detalle:</string>
+    <string name="tvPrecio">Precio:</string>
+    <string name="tvAviso">Complete esta informacion para terminar su pedido.</string>
+    <string name="tvUsuaario">Nombre:</string>
+    <string name="tvTel2">Telefono:</string>
+    <string name="tvCorreo">Correo:</string>
+    <string name="btPedido">Ordenar</string>
+    <!--    TEXTO CLIENTES-->
+
+</resources>

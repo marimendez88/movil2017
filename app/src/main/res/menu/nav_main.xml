@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mAdmin"
+        android:icon="@drawable/ic_admin"
+        android:title="@string/mAdmin" />
+    <item
+        android:id="@+id/mProductos"
+        android:icon="@drawable/ic_productos"
+        android:title="@string/mProductos" />
+    <item
+        android:id="@+id/mPedidos"
+        android:icon="@drawable/ic_pedidos"
+        android:title="@string/mPedidos" />
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANDRE\Documents\AndroidProjects\ReposteriaYoli\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ANDRE\Documents\AndroidProjects\ReposteriaYoli\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1f6892c5918dc525eff194e2d6547f34ae464239\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANDRE\Documents\AndroidProjects\ReposteriaYoli\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a36d3a0b69ab6af862cf8dd2922c8acbbf3a0a43">
+        <dex dex="C:\Users\ANDRE\Documents\AndroidProjects\ReposteriaYoli\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_159ae81ee9692b8b93898c57f401b932cc2a4738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANDRE\.android\build-cache\2b77aa0f04ec35dab75e7b46cc128f7833e167e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\ANDRE\Documents\AndroidProjects\ReposteriaYoli\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da8903104722f05f3d0961290ee0470e2a588cd0\classes.dex" />
+    </item>
+
+</items>
